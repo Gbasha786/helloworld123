@@ -1,4 +1,4 @@
-FROM openjdk:16-alpine3.13
+FROM openjdk:20-slim-buster
 
 WORKDIR /app
 
